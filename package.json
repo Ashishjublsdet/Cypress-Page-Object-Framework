@@ -1,0 +1,15 @@
+{
+  "name": "cypress-page-object-framework",
+  "version": "1.0.0",
+  "description": "Cypress page object automation framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "Ashish Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.12.1"
+  }
+}

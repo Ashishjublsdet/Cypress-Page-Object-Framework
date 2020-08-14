@@ -43,4 +43,12 @@ Add below line in Cypress.json and you can change you test location
 {"integrationFolder":"cypress/Tests"}
 ```
 
+## Project Structure
+### Package & Classes Details 
 
+
+##### Pages :  In this package all the pages of application is present.
+HomePage
+
+##### Tests :  In this package all the TestCases is present.
+TestCase

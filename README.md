@@ -13,7 +13,7 @@ cd Cypress-Page-Object-Framework
 ```
 **3.Run **
 ```bash
-npm run cypress:open
+npm run test
 ```
 
 **Installing Cypress**
@@ -52,3 +52,7 @@ HomePage
 
 ##### Tests :  In this package all the TestCases is present.
 TestCase
+
+**Integrated Mocha Fraework for Reporting **
+
+![](images/Report.png)

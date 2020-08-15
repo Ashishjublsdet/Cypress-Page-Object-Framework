@@ -1,21 +1,6 @@
 # Cypress-Page-Object-Framework
 Cypress page object model automation framework using cypress, Javascript.
 
-## Steps to Setup
-
-**1. Clone the application**
-```bash
-git clone https://github.com/Ashishjublsdet/Cypress-Page-Object-Framework.git 
-```
-**2.Go to project Directory**
-```bash
-cd Cypress-Page-Object-Framework
-```
-**3.Run **
-```bash
-npm run test
-```
-
 **Installing Cypress**
 
 Install Cypress via npm:
@@ -35,6 +20,23 @@ After Installing add below line in **support/index.js** file
 require('cypress-xpath')
 ```
 
+## Steps to Setup
+
+**1. Clone the application**
+```bash
+git clone https://github.com/Ashishjublsdet/Cypress-Page-Object-Framework.git 
+```
+**2.Go to project Directory**
+```bash
+cd Cypress-Page-Object-Framework
+```
+**3.Run **
+```bash
+npm run test
+```
+
+
+
 **Configure test in Cypress **
 
 ```bash
@@ -53,6 +55,6 @@ HomePage
 ##### Tests :  In this package all the TestCases is present.
 TestCase
 
-**Integrated Mocha Fraework for Reporting **
+**Integrated Mocha Framework for Reporting**
 
 ![](images/Report.png)

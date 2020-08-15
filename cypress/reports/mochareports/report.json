@@ -5,9 +5,9 @@
     "passes": 1,
     "pending": 0,
     "failures": 0,
-    "start": "2020-08-14T07:35:46.322Z",
-    "end": "2020-08-14T07:35:46.322Z",
-    "duration": 2300,
+    "start": "2020-08-15T16:30:11.813Z",
+    "end": "2020-08-15T16:30:11.813Z",
+    "duration": 2207,
     "testsRegistered": 1,
     "passPercent": 100,
     "pendingPercent": 0,
@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "uuid": "650fc542-1c0a-4ccf-9614-93e927bc07b3",
+      "uuid": "929ba73a-5824-4f5f-9827-252a777a7041",
       "title": "",
       "fullFile": "cypress/Tests/TestCase.js",
       "file": "cypress/Tests/TestCase.js",
@@ -27,7 +27,7 @@
       "tests": [],
       "suites": [
         {
-          "uuid": "f4858a03-fbaf-4189-9ae0-c191b99dc6af",
+          "uuid": "d751aeba-f30f-41b2-a6c1-d6e0edb76552",
           "title": "Login",
           "fullFile": "",
           "file": "",
@@ -38,7 +38,7 @@
               "title": "Verify",
               "fullTitle": "Login Verify",
               "timedOut": null,
-              "duration": 2300,
+              "duration": 2207,
               "state": "passed",
               "speed": "slow",
               "pass": true,
@@ -47,20 +47,20 @@
               "context": null,
               "code": "var page = new _HomePage.HomePage();\ncy.visit('https://www.flipkart.com/');\npage.searchProducts();\npage.clickSearchIcon();",
               "err": {},
-              "uuid": "332264b7-fdcd-4dad-b661-625240e69716",
-              "parentUUID": "f4858a03-fbaf-4189-9ae0-c191b99dc6af",
+              "uuid": "b9eadac8-5bf9-4dc1-bb51-62f7eec412c9",
+              "parentUUID": "d751aeba-f30f-41b2-a6c1-d6e0edb76552",
               "isHook": false,
               "skipped": false
             }
           ],
           "suites": [],
           "passes": [
-            "332264b7-fdcd-4dad-b661-625240e69716"
+            "b9eadac8-5bf9-4dc1-bb51-62f7eec412c9"
           ],
           "failures": [],
           "pending": [],
           "skipped": [],
-          "duration": 2300,
+          "duration": 2207,
           "root": false,
           "rootEmpty": false,
           "_timeout": 2000
